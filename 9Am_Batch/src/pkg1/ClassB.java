@@ -4,6 +4,7 @@ public class ClassB
 {
  public ClassB() 
  {
+	 System.out.println("changes done");
 	 this(455);
 	 this(34,5);
   System.out.println("Default constructor");
