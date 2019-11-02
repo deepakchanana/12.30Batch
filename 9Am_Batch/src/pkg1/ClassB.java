@@ -25,3 +25,6 @@ public class ClassB
  ClassB obj=new ClassB();	
  }
 }
+
+
+sdfghjnkmASDFGHJNM,SADFHJN,MszDFGNBAsdFGH
